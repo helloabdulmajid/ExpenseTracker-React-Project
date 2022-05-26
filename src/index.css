@@ -8,5 +8,9 @@ html{
 }
 body{
   margin: 0;
-  color: #b7ffd5;
+  color: #23b1e9;
+  background-color: antiquewhite;
+}
+h3{
+  text-align: center;
 }
